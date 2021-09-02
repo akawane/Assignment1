@@ -7,7 +7,7 @@ This assignment provides the basic understanding of the below tools:
  2. Visual Studio Code
  3. VSCode Extensions
 
-Direct link for [index.html] (https://github.com/akawane/Assignment1/blob/main/index.html)
+Direct link for [index.html](https://github.com/akawane/Assignment1/blob/main/index.html)
 
 
  
