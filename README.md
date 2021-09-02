@@ -1,4 +1,4 @@
-##CS-648 _Modern Web Development Frameworks_
+## CS-648 _Modern Web Development Frameworks_
 
 # Assignment 1
 
