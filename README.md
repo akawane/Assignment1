@@ -1,6 +1,6 @@
-## CS-648 _Modern Web Development Frameworks_
+# CS-648 _Modern Web Development Frameworks_
 
-# Assignment 1
+## Assignment 1
 
 This assignments provides the basic understanding of the below tools:
  1. Github Desktop
