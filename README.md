@@ -7,6 +7,8 @@ This assignment provides the overview of the below tools:
  2. Visual Studio Code
  3. VSCode Extensions
 
+Clone repo from [here](https://github.com/akawane/Assignment1.git)
+
 
 
 
